@@ -67,10 +67,7 @@ const user3 = new ParsonTwo("GEW", 26, "ITY", true, 123456);
 const user4 = new ParsonFour("WEQ", 27, "ESP", true);
 
 user4.ab(100, 180);
-//?
-//!
-//TODO
-//*
+
 //* user3.PrivateT = 1234;
 //* console.log(user3);
 //* console.log(user3.Access);
